@@ -1,4 +1,4 @@
-from secrets1 import refresh_token, base_64
+from secrets import refresh_token, base_64
 import requests
 import json
 
